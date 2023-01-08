@@ -12,6 +12,9 @@ section {
     justify-content: center;
     align-items: center;
 }
+blockquote p {
+    font-style: italic;
+}
 
 #img-div {
     padding: 10px 40px;
@@ -38,9 +41,7 @@ li {
     padding: 8px;
 }
 
-blockquote p {
-    font-style: italic;
-}
+
 
 #last {
     font-size: 16px;
